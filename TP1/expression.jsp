@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSP Expression</title>
+</head>
+<body>
+
+    <h1>JSP Expression</h1>
+    <p>random number: <%= Math.random() %></p>
+
+</body>
+</html>
